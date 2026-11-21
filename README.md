@@ -1,4 +1,5 @@
-# Luna Calc 🌙 
+# Luna Calc <img width="266" height="261" alt="image" src="https://github.com/user-attachments/assets/c56a7b31-f81b-4793-bf5e-d9d213998741" />
+
 
 A clean, customizable calculator for Android. Luna keeps everyday math simple, with a calm interface, smooth button animations.
 
