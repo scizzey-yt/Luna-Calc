@@ -35,3 +35,5 @@ Your calculation history and preferences are stored on your device.
 6. What other app/s did you make? I made a app called Luma Phone Cam you should go check it out.
 
 7. Why did you choose the name Luna-Calc? I named the app Luna-Calc because Luna means goddess of moon in Greek mythology and Calc means Calculator.
+
+I hope this goes viral cuz this took my nut brain 2 months to make
