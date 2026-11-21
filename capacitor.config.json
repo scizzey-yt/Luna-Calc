@@ -1,8 +1,0 @@
-{
-  "appId": "com.talha.lumacalc",
-  "appName": "Luna Calc",
-  "webDir": "dist",
-  "server": {
-    "androidScheme": "https"
-  }
-}
