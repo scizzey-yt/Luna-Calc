@@ -23,7 +23,7 @@ Hi, I’m Scizzey. I’m 12 and learning to become a software engineer. I built 
 Your calculation history and preferences are stored on your device.
 
 **1. How to run luna calc.**
-Firstly you have to download the .exe or .apk file then you have to open/run it and if it asks to scan before install it is up to you whether you want to get stright to the download or want to just install it.
+Firstly you have to download the .exe from the link in the file windows app link.txt or .apk download the Luna-Calc.apk file then you have to open/run it and if it asks to scan before install it is up to you whether you want to get stright to the download or want to just install it.
 
 **2. Using Luna Calc.**
 All you have to do is open the app and use it its like a normal caclulator but you can change the theam and font size in settings.
@@ -51,5 +51,8 @@ No you don't need a crazy pc to make a simple app like Luna-Calc personally my p
 
 **10. Pls support me**
 If you guys like this project I made please care to support me by subscribing to me on my Youtube, Tiktok and Github this took me a while to make and I will be continueing to make more apps and games if you guys want to support me by donating or doing smth please email me at talhasyed9080@gmail.com if possible please get me monitized it would mean ALOT.
+
+**11. Feedback**
+If you think I should add more features just email me at talhasyed9080@gmail.com and tell me what features I should add to the app and if you guys want any new theams please feel free to email me and let me know that I should add and when I add a new feature you will have to delete the app then reinstall it from the new .apk or .exe file.
 
 **I hope this goes viral cuz this took my nut brain 2 months to make**
