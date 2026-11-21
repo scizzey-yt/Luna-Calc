@@ -1,0 +1,23 @@
+{
+  "name": "luna-calc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Luna is a polished, pocket-sized calculator for Android and iOS.",
+  "scripts": {
+    "start": "node server.mjs",
+    "build": "node scripts/build.mjs",
+    "android:sync": "cap sync android",
+    "android:open": "cap open android",
+    "android:build": "npm run build && npx cap sync android && cd android && gradlew.bat assembleDebug",
+    "ios:sync": "cap sync ios",
+    "ios:open": "cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3",
+    "@capacitor/ios": "^7.6.10"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}

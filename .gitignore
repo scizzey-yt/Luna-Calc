@@ -1,0 +1,15 @@
+node_modules/
+dist/
+android/.gradle/
+android/build/
+android/app/build/
+ios/Pods/
+ios/App/DerivedData/
+*.keystore
+*.jks
+.env*
+.DS_Store
+/Luna-Calc.apk
+/Luna-iOS-project.zip
+/Luma-Calc.apk
+/Luma-Calc-iOS-project.zip
